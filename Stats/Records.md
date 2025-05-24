@@ -2,7 +2,7 @@
 title: Stream Records
 description: 
 published: true
-date: 2025-05-22T06:43:55.129Z
+date: 2025-05-24T20:12:08.694Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:33:03.305Z
@@ -17,7 +17,7 @@ A timer was added to display the ammount of time between encounters for the rare
 
 | Pokemon | Length             | Date                   | Image |
 |---------|--------------------|------------------------|-------|
-| Seedot  | 3 Hours 50 Minutes | 7th of September, 2023 | N/A   |
+| Seedot  | 3 Hours 50 Minutes | 7th of September, 2023 | ![nutrecord](https://i.imgur.com/wmNtFo7.png =500x350)   |
 | Grimer  | 1 Hour 30 Minutes  | February 24th, 2025    | ![Grimer1](https://i.imgur.com/CoPT0t4.png =600x350)|
 | Nuzleaf | 2 Hours 2 Minutes  | 12th of April, 2025    |![NuzleafRecord](https://i.imgur.com/JBGWi4p.png =600x350)       |
 | Volbeat | 2 Hours 14 Minutes | 3rd of November, 2024  | N/A   |
