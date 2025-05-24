@@ -1,0 +1,20 @@
+---
+title: Failed Encounters
+description: 
+published: true
+date: 2025-05-24T01:03:15.652Z
+tags: 
+editor: markdown
+dateCreated: 2025-05-24T01:03:15.652Z
+---
+
+# Failed Encounters
+Due to the various reasons the bot has failed a total of 5 shiny encounters to this date. This is a compilation of all of them.
+
+| Pokemon   | Reason          | Date                 | Clip                                                                 |
+|-----------|-----------------|----------------------|----------------------------------------------------------------------|
+| Poochyena | Emulator Crash  | June 20th, 2023      | N/A                                                                  |
+| Silcoon   | Emulator Crash  | June 20th, 2023      | N/A                                                                  |
+| Abra      | Teleported Away | September 20th, 2024 | ![Abra](https://youtu.be/_h8KPsFqEyA?list=PL6CcfJ4z__qcr8IGl485gJrlCnR7nnxp4) |
+| Sableye   | Bot Ran Away    | September 22nd, 2024 | ![Sableye](https://youtu.be/n_YxqYjO49s?list=PL6CcfJ4z__qcr8IGl485gJrlCnR7nnxp4) |
+| Baltoy    | Exploded        | May 18th, 2025       | ![Baltoy](https://youtu.be/DZ3q8ZGJdBM?list=PL6CcfJ4z__qcr8IGl485gJrlCnR7nnxp4) |
