@@ -2,7 +2,7 @@
 title: Background Pokemon
 description: 
 published: true
-date: 2025-05-22T00:52:12.718Z
+date: 2025-05-28T00:57:03.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T23:33:57.590Z
@@ -22,7 +22,7 @@ Cakes also decided to add a allow for a rare chance of fakemon to be spawned ins
 
 ### April Fools
 
-During april fools, cakes will replace the background pokemon list with the april fools sprites from the showdown list.
+During april fools, Cakes will replace the background pokemon list with the april fools sprites from the showdown list.
 
 ## Ineteractions
 
