@@ -2,7 +2,7 @@
 title: Stream Records
 description: 
 published: true
-date: 2025-05-27T19:19:00.000Z
+date: 2025-05-28T01:12:13.645Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:33:03.305Z
@@ -13,7 +13,7 @@ dateCreated: 2025-05-22T03:33:03.305Z
 This page documents various records recorded on the 40Cakes stream
 
 ## Lengths
-A timer was added to display the ammount of time between encounters for the rare pokemon on each route. This section documents the longest time recorded between the rare pokemon on each route.
+A timer was added to display the amount of time between encounters for the rare Pokémon on each route. This section documents the longest time recorded between the rare Pokémon on each route.
 
 | Pokemon | Length             | Date                   | Image |
 |---------|--------------------|------------------------|-------|
