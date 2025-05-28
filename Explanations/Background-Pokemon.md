@@ -2,7 +2,7 @@
 title: Background Pokemon
 description: 
 published: true
-date: 2025-05-28T00:57:03.085Z
+date: 2025-05-28T00:58:24.155Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-21T23:33:57.590Z
@@ -29,6 +29,6 @@ During april fools, Cakes will replace the background pokemon list with the apri
 There are a few main ways that the viewer can interact with the background pokemon:
 
 - [Bingo](/Bingo):
-	This involves users attempting to fill out a predetermined board of pokemon
+	This involves users attempting to fill out a predetermined board of pokemon.
 - Background Tracker:
-	This is a complete list of the background pokemon that viewers can attempt to fill out 
+	This is a complete list of the background pokemon that viewers can attempt to fill out.
