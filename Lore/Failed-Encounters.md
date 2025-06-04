@@ -2,7 +2,7 @@
 title: Failed Encounters
 description: 
 published: true
-date: 2025-05-24T01:23:07.767Z
+date: 2025-06-04T18:38:56.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-24T01:03:15.652Z
@@ -11,7 +11,7 @@ dateCreated: 2025-05-24T01:03:15.652Z
 # Failed Encounters
 Due to the various reasons the bot has failed a total of 5 shiny encounters to this date. This is a compilation of all of them.
 
-| Pokemon   | Reason          | Date                 | Clip                                                                 |
+| Pokémon   | Reason          | Date                 | Clip                                                                 |
 |-----------|-----------------|----------------------|----------------------------------------------------------------------|
 | Poochyena | Emulator Crash  | June 20th, 2023      | N/A                                                                  |
 | Silcoon   | Emulator Crash  | June 20th, 2023      | N/A																																	|
